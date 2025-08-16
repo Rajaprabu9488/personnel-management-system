@@ -51,7 +51,7 @@ A standalone application designed to **analyze and manage critical threat scenar
 ## ▶️ Installation & Usage
 ### **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/threat-management-system](https://github.com/Rajaprabu9488/personnel-management-system).git
+git clone [https://github.com/your-username/threat-management-system.git](https://github.com/Rajaprabu9488/personnel-management-system.git)
 cd personnel-management-system
 ---
 
